@@ -28,6 +28,8 @@ Plain text
 
 ***bold and italic***
 
+***this is example***
+
 Table:
 
 | X1 | X2 | X3 |
