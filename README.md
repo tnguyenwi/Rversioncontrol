@@ -19,3 +19,19 @@ Leve 2
 
 ### H3
 Level 3
+
+Plain text
+
+*italic*
+
+**bold**
+
+***bold and italic***
+
+Table:
+
+| X1 | X2 | X3 |
+| --- | :---| ---: |
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+
